@@ -1,0 +1,11 @@
+.venv
+.env
+__pycache__
+*.exe
+test.py
+dist
+build
+*.spec
+main copy.py
+list_audio_devices.py
+chave-google.json

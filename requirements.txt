@@ -1,0 +1,9 @@
+pyaudio
+google-cloud-speech
+google-cloud-translate
+requests
+python-dotenv
+webrtcvad
+numpy
+sounddevice
+pyinstaller
