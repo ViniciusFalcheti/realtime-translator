@@ -7,5 +7,9 @@ dist
 build
 *.spec
 main copy.py
+main copy 2.py
 list_audio_devices.py
 chave-google.json
+teste_audio.wav
+teste_com_audio.py
+teste_resampling.py
